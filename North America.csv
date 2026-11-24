@@ -1,0 +1,134 @@
+City,Country,Temperature,Wind
+Acapulco,Mexico,88 °F,6 mph
+Adak,USA,31 °F,12 mph
+Aguascalientes,Mexico,68 °F,2 mph
+Albuquerque,USA,41 °F,3 mph
+Alert,Canada,-11 °F,10 mph
+Anchorage,USA,12 °F,0 mph
+Atlanta,USA,61 °F,8 mph
+Augusta,USA,37 °F,20 mph
+Austin,USA,50 °F,7 mph
+Baker Lake,Canada,11 °F,25 mph
+Baltimore,USA,50 °F,13 mph
+Basse-Terre (Guadeloupe),Guadeloupe,88 °F,14 mph
+Basseterre (St. Kitts),Saint Kitts and Nevis,88 °F,10 mph
+Belmopan,Belize,79 °F,7 mph
+Billings,USA,30 °F,14 mph
+Bismarck,USA,30 °F,7 mph
+Blanc-Sablon,Canada,38 °F,45 mph
+Boise,USA,41 °F,5 mph
+Boston,USA,46 °F,17 mph
+Bridgetown,Barbados,88 °F,18 mph
+Calgary,Canada,25 °F,2 mph
+Cancún,Mexico,82 °F,16 mph
+Castries,Saint Lucia,88 °F,14 mph
+Charleston,USA,42 °F,9 mph
+Cheyenne,USA,38 °F,8 mph
+Chibougamau,Canada,18 °F,12 mph
+Chicago,USA,38 °F,3 mph
+Columbia,USA,61 °F,8 mph
+Columbus,USA,41 °F,15 mph
+Concord,USA,37 °F,25 mph
+Coral Harbour,Canada,1 °F,2 mph
+Dallas,USA,44 °F,7 mph
+Denver,USA,44 °F,8 mph
+Des Moines,USA,30 °F,7 mph
+Detroit,USA,35 °F,5 mph
+Dover,USA,50 °F,20 mph
+Edmonton,Canada,18 °F,10 mph
+Eureka,Canada,3 °F,24 mph
+Fairbanks,USA,-7 °F,0 mph
+Fort-de-France,Martinique,90 °F,17 mph
+George Town,Cayman Islands,84 °F,8 mph
+Grise Fiord,Canada,-6 °F,3 mph
+Guadalajara,Mexico,72 °F,0 mph
+Guatemala City,Guatemala,77 °F,5 mph
+Hagåtña,Guam,80 °F,13 mph
+Halifax,Canada,39 °F,16 mph
+Hamilton,Bermuda,79 °F,5 mph
+Happy Valley-Goose Bay,Canada,32 °F,17 mph
+Hartford,USA,46 °F,17 mph
+Havana,Cuba,77 °F,10 mph
+Hermosillo,Mexico,70 °F,0 mph
+Honolulu,USA,68 °F,0 mph
+Houston,USA,53 °F,13 mph
+Indianapolis,USA,35 °F,16 mph
+Inuvik,Canada,-6 °F,10 mph
+Jackson,USA,49 °F,8 mph
+Juneau,USA,27 °F,0 mph
+Kansas City,USA,32 °F,10 mph
+Kingston,Jamaica,88 °F,25 mph
+Kingstown,Saint Vincent and Grenadines,88 °F,22 mph
+Knoxville,USA,50 °F,15 mph
+Kuujjuaq,Canada,5 °F,5 mph
+Las Vegas,USA,45 °F,9 mph
+Lincoln,USA,33 °F,8 mph
+Little Rock,USA,46 °F,13 mph
+Los Angeles,USA,64 °F,5 mph
+Louisville,USA,45 °F,15 mph
+Madison,USA,29 °F,0 mph
+Managua,Nicaragua,91 °F,7 mph
+Mary's Harbour,Canada,43 °F,21 mph
+Mazatlan,Mexico,79 °F,0 mph
+Mexicali,Mexico,60 °F,3 mph
+Mexico City,Mexico,66 °F,2 mph
+Miami,USA,75 °F,6 mph
+Midland,USA,39 °F,7 mph
+Milwaukee,USA,32 °F,0 mph
+Minneapolis,USA,22 °F,0 mph
+Montgomery,USA,61 °F,5 mph
+Montpelier,USA,32 °F,14 mph
+Montréal,Canada,36 °F,7 mph
+Nashville,USA,48 °F,16 mph
+Nassau,Bahamas,81 °F,10 mph
+New Orleans,USA,58 °F,13 mph
+New York,USA,49 °F,10 mph
+Newark,USA,49 °F,22 mph
+Oklahoma City,USA,35 °F,10 mph
+Orlando,USA,71 °F,8 mph
+Ottawa,Canada,34 °F,13 mph
+Panama,Panama,91 °F,7 mph
+Pensacola,USA,60 °F,7 mph
+Philadelphia,USA,49 °F,16 mph
+Phoenix,USA,60 °F,5 mph
+Pond Inlet,Canada,-8 °F,9 mph
+Port-au-Prince,Haiti,93 °F,10 mph
+Portland,USA,48 °F,23 mph
+Providence,USA,48 °F,13 mph
+Québec,Canada,30 °F,12 mph
+Raleigh,USA,51 °F,15 mph
+Rapid City,USA,35 °F,0 mph
+Regina,Canada,23 °F,5 mph
+Resolute Bay,Canada,-6 °F,15 mph
+Richmond,USA,51 °F,16 mph
+Roseau,Dominica,90 °F,8 mph
+Sacramento,USA,46 °F,3 mph
+Saint George's,Grenada,88 °F,17 mph
+Saint John (New Brunswick),Canada,37 °F,17 mph
+Saint John's (Antigua),Antigua and Barbuda,88 °F,10 mph
+Saint Paul,USA,30 °F,6 mph
+Salem,USA,43 °F,0 mph
+Salt Lake City,USA,39 °F,7 mph
+San Diego,USA,62 °F,0 mph
+San Francisco,USA,51 °F,3 mph
+San Jose (Costa Rica),Costa Rica,84 °F,6 mph
+San Jose (US-CA),USA,53 °F,6 mph
+San Juan,Puerto Rico,87 °F,10 mph
+San Salvador,El Salvador,84 °F,6 mph
+Santo Domingo,Dominican Republic,88 °F,9 mph
+Seattle,USA,52 °F,12 mph
+Sioux Falls,USA,33 °F,15 mph
+St. John's (Newfoundland),Canada,54 °F,16 mph
+St. Louis,USA,37 °F,7 mph
+Tegucigalpa,Honduras,79 °F,3 mph
+Tijuana,Mexico,63 °F,3 mph
+Topeka,USA,33 °F,6 mph
+Toronto,Canada,36 °F,7 mph
+Unalaska,USA,37 °F,9 mph
+Vancouver,Canada,50 °F,17 mph
+Veracruz,Mexico,79 °F,9 mph
+Wake Island,US Minor Outlying Islands,81 °F,17 mph
+Washington DC,USA,52 °F,14 mph
+Whitehorse,Canada,12 °F,8 mph
+Winnipeg,Canada,23 °F,5 mph
+Yellowknife,Canada,19 °F,8 mph

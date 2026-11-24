@@ -1,0 +1,149 @@
+City,Country,Temperature,Wind
+Ambato,Ecuador,70 °F,7 mph
+Antofagasta,Chile,73 °F,17 mph
+Arauca,Colombia,90 °F,6 mph
+Arequipa,Peru,70 °F,9 mph
+Artigas,Uruguay,81 °F,6 mph
+Asuncion,Paraguay,70 °F,16 mph
+Balsas,Brazil,95 °F,3 mph
+Barcelona,Venezuela,90 °F,12 mph
+Barquisimeto,Venezuela,88 °F,114 mph
+Barra do Garças,Brazil,75 °F,3 mph
+Barranquilla,Colombia,93 °F,3 mph
+Belém,Brazil,88 °F,10 mph
+Belo Horizonte,Brazil,82 °F,9 mph
+Boa Vista,Brazil,97 °F,12 mph
+Bogota,Colombia,70 °F,3 mph
+Brasilia,Brazil,81 °F,1 mph
+Bucaramanga,Colombia,84 °F,15 mph
+Buenos Aires,Argentina,84 °F,7 mph
+Cali,Colombia,86 °F,3 mph
+Callao,Peru,79 °F,29 mph
+Campinas,Brazil,90 °F,13 mph
+Canelones,Uruguay,79 °F,16 mph
+Caracas,Venezuela,90 °F,6 mph
+Carlini Base,Antarctica,38 °F,38 mph
+Cartagena,Colombia,91 °F,10 mph
+Cayenne,French Guiana,90 °F,17 mph
+Chaguanas,Trinidad and Tobago,90 °F,12 mph
+Chankillo,Peru,82 °F,17 mph
+Ciudad Bolívar,Venezuela,90 °F,12 mph
+Ciudad del Este,Paraguay,86 °F,7 mph
+Ciudad Guayana,Venezuela,89 °F,22 mph
+Cobija,Bolivia,97 °F,12 mph
+Cochabamba,Bolivia,90 °F,6 mph
+Colonia del Sacramento,Uruguay,81 °F,15 mph
+Córdoba,Argentina,72 °F,18 mph
+Criciúma,Brazil,77 °F,9 mph
+Cúcuta,Colombia,95 °F,21 mph
+Cuenca,Ecuador,68 °F,6 mph
+Curitiba,Brazil,81 °F,16 mph
+Durazno,Uruguay,81 °F,8 mph
+Easter Island,Chile,73 °F,9 mph
+Encarnación,Paraguay,68 °F,40 mph
+Esmeraldas,Ecuador,86 °F,9 mph
+Esperanza Base,Antarctica,38 °F,13 mph
+Fernando de Noronha,Brazil,88 °F,14 mph
+Florencia,Colombia,91 °F,7 mph
+Florida,Uruguay,79 °F,16 mph
+Fortaleza,Brazil,90 °F,21 mph
+Foz do Iguaçu,Brazil,86 °F,7 mph
+Fray Bentos,Uruguay,81 °F,20 mph
+Fuerte Olimpo,Paraguay,84 °F,7 mph
+Galapagos Islands,Ecuador,86 °F,9 mph
+Georgetown,Guyana,93 °F,18 mph
+Goiânia,Brazil,74 °F,4 mph
+Gualeguaychú,Argentina,81 °F,20 mph
+Guarulhos,Brazil,91 °F,12 mph
+Guayaquil,Ecuador,88 °F,5 mph
+Gustavia,Saint Barthélemy,86 °F,12 mph
+Ibarra,Ecuador,64 °F,"?
+Not available"
+Imperatriz,Brazil,95 °F,3 mph
+Inírida,Colombia,95 °F,6 mph
+Iquitos,Peru,90 °F,3 mph
+La Paz,Bolivia,59 °F,11 mph
+La Plata,Argentina,83 °F,29 mph
+Lima,Peru,79 °F,29 mph
+Linden,Guyana,93 °F,18 mph
+Loja,Ecuador,68 °F,6 mph
+Maceió,Brazil,91 °F,18 mph
+Machu Picchu Pueblo,Peru,61 °F,7 mph
+Maldonado,Uruguay,82 °F,13 mph
+Manaus,Brazil,97 °F,6 mph
+Manizales,Colombia,77 °F,6 mph
+Mar del Plata,Argentina,65 °F,40 mph
+Maracaibo,Venezuela,90 °F,1 mph
+Maracay,Venezuela,90 °F,"?
+Not available"
+Marambio Base,Antarctica,36 °F,27 mph
+Marigot,Saint Martin,86 °F,12 mph
+Maturín,Venezuela,,
+Medellin,Colombia,75 °F,6 mph
+Melo,Uruguay,84 °F,5 mph
+Mendoza,Argentina,75 °F,7 mph
+Mercedes,Uruguay,81 °F,20 mph
+Minas,Uruguay,82 °F,13 mph
+Mitú,Colombia,91 °F,16 mph
+Montería,Colombia,92 °F,7 mph
+Montevideo,Uruguay,79 °F,16 mph
+Natal,Brazil,89 °F,36 mph
+Neuquén,Argentina,69 °F,22 mph
+New Amsterdam,Guyana,89 °F,29 mph
+Nieuw Nickerie,Suriname,89 °F,29 mph
+Niterói,Brazil,86 °F,14 mph
+Paramaribo,Suriname,90 °F,18 mph
+Paysandú,Uruguay,84 °F,7 mph
+Pedro Juan Caballero,Paraguay,88 °F,10 mph
+Pereira,Colombia,76 °F,4 mph
+Petrópolis,Brazil,95 °F,8 mph
+Philipsburg,Sint Maarten,86 °F,12 mph
+Pirassununga,Brazil,93 °F,14 mph
+Popayán,Colombia,86 °F,3 mph
+Port of Spain,Trinidad and Tobago,90 °F,12 mph
+Porto Alegre,Brazil,72 °F,2 mph
+Porto Velho,Brazil,93 °F,6 mph
+Portoviejo,Ecuador,88 °F,5 mph
+Puerto Ayacucho,Venezuela,,
+Punta Arenas,Chile,48 °F,35 mph
+Puyo,Ecuador,70 °F,7 mph
+Quito,Ecuador,66 °F,9 mph
+Rawson,Argentina,67 °F,40 mph
+Recife,Brazil,88 °F,12 mph
+Riberalta,Bolivia,93 °F,7 mph
+Rio Branco,Brazil,97 °F,13 mph
+Rio de Janeiro,Brazil,86 °F,14 mph
+Rivera,Uruguay,84 °F,5 mph
+Rocha,Uruguay,82 °F,13 mph
+Rosario,Argentina,82 °F,17 mph
+Saint-Laurent-du-Maroni,French Guiana,90 °F,16 mph
+Salta,Argentina,84 °F,20 mph
+Salto,Uruguay,78 °F,27 mph
+Salvador,Brazil,86 °F,21 mph
+San Fernando,Trinidad and Tobago,90 °F,12 mph
+San Fernando de Apure,Venezuela,,
+San Ignacio de Velasco,Bolivia,95 °F,12 mph
+San José de Mayo,Uruguay,79 °F,16 mph
+Santa Cruz,Bolivia,90 °F,22 mph
+Santa Fe,Argentina,78 °F,27 mph
+Santarém,Brazil,93 °F,15 mph
+Santiago,Chile,81 °F,12 mph
+Santo Domingo,Ecuador,64 °F,7 mph
+Santos,Brazil,86 °F,12 mph
+São Félix do Xingu,Brazil,86 °F,5 mph
+São Paulo,Brazil,86 °F,12 mph
+Scarborough,Trinidad and Tobago,88 °F,17 mph
+Sincelejo,Colombia,91 °F,3 mph
+Stanley,Falkland Islands,46 °F,7 mph
+Sucre,Bolivia,,
+Tacuarembó,Uruguay,84 °F,5 mph
+Tandil,Argentina,71 °F,43 mph
+Trinidad,Uruguay,81 °F,8 mph
+Trujillo,Peru,82 °F,12 mph
+Tucumán,Argentina,66 °F,9 mph
+Valencia,Venezuela,90 °F,"?
+Not available"
+Valparaíso,Chile,81 °F,12 mph
+Villavicencio,Colombia,70 °F,3 mph
+Viña del Mar,Chile,81 °F,12 mph
+Vitória,Brazil,73 °F,13 mph
